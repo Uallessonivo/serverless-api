@@ -1,0 +1,13 @@
+## ENV
+.env
+.env.local
+.env.production
+
+## MODULES
+node_modules
+
+## WEBPACK
+.webpack
+
+## DYNAMO
+.dynamodb
